@@ -1,6 +1,6 @@
 # Author: Michael Russell
 # GitHub username: Mike369
-# Date: 07/03/2024
+# Date: 07/18/2024
 # Description: Write a function named file_sum that takes as a parameter the name of a text file that contains a list
 # of numbers, one to a line, like this:
 
